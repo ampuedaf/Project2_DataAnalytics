@@ -120,7 +120,7 @@ En el año 2014, hubo 3541.64 accesos de internet por cada 100 hogares. En el a�
 
 Se hizo el estudio de penetración bajada de internet por año. Alli pudimos observar que en el inicio del 2014 la velocidad promedio era de 3.85 Mbps y fue aumentando progresivamente hasta llegar a los 60 Mbps. este estudio se hizo a traves de los datos suminstrados por la empresa proveedora de servicios : ENACOM En relación con el analisis anterior, tener un enfoque más detallado de estás provincias, puede ser de interes para proponer una oportunidad de mejorar el acceso a conexiones de internet en estas regiones. Pero haré un analisis más detallado de estás para proponer un KPI realista.
 
- 1.** Incremento en la cantidad de acceso al servicio de internet para un tiempo determinado:** Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. 
+ ## KPI 1.** Incremento en la cantidad de acceso al servicio de internet para un tiempo determinado:** Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. 
  
  Métrica: Aumento en el numero de conexiones totales / cada 100 hogares por provincia.
 Meta:
