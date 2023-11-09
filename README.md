@@ -22,7 +22,7 @@
 - Colaboradores.
 
 
-#Introducción y Contexto.
+# Introducción y Contexto.
 
 ------------
 Las telecomunicaciones desempeñan un papel fundamental en nuestra sociedad actual y su importancia solo continúa creciendo. Estas tecnologías permiten la transmisión de información y la comunicación a larga distancia a través de medios electrónicos como la telefonía, la televisión, la radio y, especialmente, el internet.
