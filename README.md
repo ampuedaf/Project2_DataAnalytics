@@ -1,16 +1,20 @@
-#<div align="center">
+<div align="center">
+
    # Proyect  N2 Data Science.
  </div>
 
- #<div align="center">
+ <div align="center">
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/pXPcKY3s/henry2.png' border='0' alt='henry2'/></a>
 </div>
-#<div align="center">
+
+<div align="center">
+
   #  Data Analytics.
 </div>
 <div align="center">
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/yYShgJ8L/image.png' border='0' alt='image'/>
-<div align="center>
+</div>
+   
 ------------
 # Indice.
 
