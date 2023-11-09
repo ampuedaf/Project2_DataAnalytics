@@ -48,7 +48,7 @@ El analisis en el que nos enfocamos, esta estrechamente relacionado con la comun
 A partir del análisis realizado, he llegado a conclusiones que consideran diferentes perspectivas y oportunidades de mejora en el sector, con el objetivo de crear una propuesta de negocio que se base en mejorar la cobertura y la calidad de los servicios de acceso a Internet, así como en establecer indicadores de rendimiento relacionados con este objetivo. Todos estos hallazgos se presentan en este informe y se detallan más específicamente en el contenido de este repositorio. 
 
 
-#Fuente de los Datos.
+# Fuente de los Datos.
 
 
 ------------
@@ -58,7 +58,6 @@ A partir del análisis realizado, he llegado a conclusiones que consideran difer
 
 # Diccionario de Datos.
 
-###Tables
                     
 Campo  | Descripción
 ------------- | -------------
