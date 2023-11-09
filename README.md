@@ -1,4 +1,6 @@
-# <center>Proyect  N2 Data Science.</center>
+#<div align="center"> 
+   # Proyect  N2 Data Science.
+</div>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/pXPcKY3s/henry2.png' border='0' alt='henry2'/></a>
 
 #<div align="center">
