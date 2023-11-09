@@ -1,7 +1,7 @@
 # <center>Proyect  N2 Data Science.</center>
 <center><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/pXPcKY3s/henry2.png' border='0' alt='henry2'/></a></center>
 
-#<center> Data Analytics .</center>
+# <center> Data Analytics .</center>
 
 <center><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/yYShgJ8L/image.png' border='0' alt='image'/></a></center>
 
@@ -56,7 +56,7 @@ A partir del análisis realizado, he llegado a conclusiones que consideran difer
 - Datos transformados en el ETL_EDA.
 - Datos transformados en el EDA.
 
-#Diccionario de Datos.
+# Diccionario de Datos.
 
 ###Tables
                     
@@ -81,7 +81,7 @@ Hasta 512 kbps|Número de conexiones con velocidad hasta 512 kbps en la provinci
 30 Mbps |Número de conexiones con velocidad superior a 30 Mbps en la provincia para el año y trimestre específicos.
 Total suma Mbps | Total de la suma de todas las conexiones de Internet por velocidad en la provincia para el año y trimestre específicos.
 
-#Flujo de trabajo.
+# Flujo de trabajo.
  
 ## ETL (Extracción, Transformación y Carga de los datos) -> Notebook: ETL_DA.
 - Se descargaron algunos dataset a través de la pagina oficial de ENACOM. Al cabo de cierto  periodo de observación de los datos, pude comprobar que dichas tablas contienen valores inconsistentes en determinadas escalas, esto daba como resultado analisis  distorsionados. Por tal motivo inmediatamente busque otra fuente alternativa de los datos, sin dejar de utilizar la plataforma de ENACOM.  Estos datos  fueron extraidos en formato xlsx. Los cuales si  tenian una mayor calidad del dato.
